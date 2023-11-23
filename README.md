@@ -10,6 +10,8 @@ This project repository is located at `https://github.com/petreli12/Data-Science
         Data-Science/
                     bin/
                     notebooks/
+                    Python_env/
+                              .venv/
                     scripts/
 
 # Setup
@@ -29,7 +31,7 @@ mkdir -p python_env
 cd python_env
 virtualenv -p /usr/bin/python3.8 Data-Science/
 source ~/python_venv/Data-Science/bin/activate
-pip install -r ~/repos/Data-Science/minimal_requirements.txt
+pip install -r ~/repos/Data-Science/requirements.txt
 ```
 
 **Step 3: Clone `Data-Science` and install from develop branch**
