@@ -10,8 +10,7 @@ This project repository is located at `https://github.com/petreli12/Data-Science
         Data-Science/
                     bin/
                     notebooks/
-                    Python_env/
-                              .venv/
+                    python_env/
                     scripts/
 
 # Setup
