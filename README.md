@@ -1,7 +1,7 @@
 # Data-Science
 # Purpose
 
-This repository is aimed at predicting housing prices from the famous housing dataset using an array of machine learning models including Linear Regression (LASSO, Ridge, ELasticNet), Random Forest regression and Extreme Gradient Boosting (XGBoost) regression. 
+This repository is aimed at predicting housing prices from the famous Boston housing dataset using an array of machine learning models including Linear Regression (LASSO, Ridge, ELasticNet), Random Forest regression and Extreme Gradient Boosting (XGBoost) regression. 
 
 # Repo Location + Structure
 
