@@ -1,0 +1,6 @@
+{"strategy": "RandomDiscrete",
+"max_runtime_secs": 28800,
+"seed": 42,
+"stopping_rounds": 5,
+"stopping_metric": "mse",
+"stopping_tolerance": 0.005}
