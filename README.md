@@ -9,6 +9,7 @@ This project repository is located at `https://github.com/petreli12/Data-Science
 
         Data-Science/
                     bin/
+                    config/
                     notebooks/
                     python_env/
                     scripts/
